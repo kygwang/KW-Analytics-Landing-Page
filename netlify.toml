@@ -2,10 +2,6 @@
   command = "npm run build"
   publish = ".next"
 
-[[redirects]]
-  from = "/*"
-  to = "https://www.linkedin.com/in/kylegwang"
-  status = 200
 [[plugins]]
   package = "netlify-plugin-cypress"
 
