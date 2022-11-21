@@ -12,7 +12,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to KW Analytics!" />
         <p className="description">
-          Kyle Wang's website <br>
+          Kyle Wang's website <br />
           Under maintenance - coming soon!
         </p>
       </main>
