@@ -13,8 +13,8 @@ export default function Home() {
       <main>
         <Header title="Welcome to KW Analytics!" />
         <p className="description">
-          Kyle Wang's website <br />
           Under maintenance - coming soon!
+          You can learn more about <a href="https://www.linkedin.com/in/kylegwang">Kyle Wang</a>
         </p>
       </main>
     <Footer />
