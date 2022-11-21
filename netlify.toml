@@ -4,3 +4,9 @@
 
 [[plugins]]
   package = "netlify-plugin-cypress"
+
+[[redirects]]
+  from = "/"
+  to = "https://www.linkedin.com/in/kylegwang"
+  status = 200
+  force = true
