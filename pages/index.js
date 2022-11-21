@@ -17,8 +17,6 @@ export default function Home() {
           Under maintenance - coming soon!
         </p>
       </main>
-
-      <Footer />
     </div>
   )
 }
