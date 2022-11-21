@@ -17,7 +17,8 @@ export default function Home() {
           You can learn more about <a href="https://www.linkedin.com/in/kylegwang">Kyle Wang</a>
         </p>
       </main>
-    <Footer />
+
+      <Footer />
     </div>
   )
 }
